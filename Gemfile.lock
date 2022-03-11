@@ -249,7 +249,7 @@ GEM
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
-    sawyer (0.8.2)
+    sawyer (0.8.2)jjjjk
       addressable (>= 2.3.5)
       faraday (> 0.8, < 2.0)
     simpleidn (0.2.1)
